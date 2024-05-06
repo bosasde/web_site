@@ -1,0 +1,36 @@
+div#container
+{
+   width: 970px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Banner2
+{
+   background-color: #265A88;
+   background: linear-gradient(to top, #265A88 0%, #337AB7 100%);
+   border: 1px solid #245580;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 27px;
+   text-align: center;
+   margin: 0;
+}
+#Banner2 span
+{
+   display: block;
+   height: 27px;
+   margin: 17px 0px 17px 0px;
+}
